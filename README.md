@@ -23,6 +23,7 @@ pkg install ruby
 gem install lolcat
 git clone https://github.com/sparkz-technology/pass.git 
 cd pass
+chmod +x pass.sh
 bash pass.sh
 ```
 
