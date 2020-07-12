@@ -5,8 +5,8 @@
 ## IG: instagram.com/sutharsan_sparkz
 ##  Don't copy this code without give me the credits
 
-kali linux-2020-07-12-13-40-17.png
 
+![kali linux-2020-07-12-13-40-17](https://user-images.githubusercontent.com/62829664/87242170-eb711400-c447-11ea-842e-cd64f6e2b36e.png)
 
 
 
